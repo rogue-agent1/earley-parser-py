@@ -1,0 +1,1 @@
+# earley-parser-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 earley_parser.py\n```\n
